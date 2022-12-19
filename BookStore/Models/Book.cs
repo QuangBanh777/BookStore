@@ -7,5 +7,6 @@ namespace BookStore.Models
 {
     public class Book
     {
+        public int a { get; set; }
     }
 }
